@@ -53,6 +53,7 @@ namespace ConsoleConsumer
             }
 
             return result;
+
         }
     }
 }
